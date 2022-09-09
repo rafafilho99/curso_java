@@ -21,7 +21,7 @@ public class App {
         yB = sc.nextDouble();
         yC = sc.nextDouble();
 
-        
+        double area = xA*xB*xC;
         
     }
 }
